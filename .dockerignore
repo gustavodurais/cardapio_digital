@@ -1,0 +1,12 @@
+node_modules/
+*.db
+*.db-wal
+*.db-shm
+.env
+__pycache__/
+.DS_Store
+docs/
+test/
+scripts/
+.github/
+.git/
